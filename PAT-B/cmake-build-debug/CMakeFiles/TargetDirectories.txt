@@ -1,0 +1,3 @@
+/work/Project/c++/PAT-B/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/work/Project/c++/PAT-B/cmake-build-debug/CMakeFiles/edit_cache.dir
+/work/Project/c++/PAT-B/cmake-build-debug/CMakeFiles/b1095.dir

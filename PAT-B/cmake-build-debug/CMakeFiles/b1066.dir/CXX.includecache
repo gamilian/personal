@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/work/Project/c++/PAT-B/b1066.cpp
+bits/stdc++.h
+-
+
+/work/Project/c++/PAT-B/b1068.cpp
+bits/stdc++.h
+-
+
+/work/Project/c++/PAT-B/b1069.cpp
+bits/stdc++.h
+-
+
+/work/Project/c++/PAT-B/b1070.cpp
+bits/stdc++.h
+-
+
+/work/Project/c++/PAT-B/b1071.cpp
+bits/stdc++.h
+-
+
+/work/Project/c++/PAT-B/b1072.cpp
+bits/stdc++.h
+-
+
+/work/Project/c++/PAT-B/b1073.cpp
+bits/stdc++.h
+-
+

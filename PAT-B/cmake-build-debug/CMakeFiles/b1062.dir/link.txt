@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/b1062.dir/b1062.cpp.o -o b1062 

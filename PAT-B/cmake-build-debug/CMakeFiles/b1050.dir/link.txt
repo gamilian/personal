@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/b1050.dir/b1050.cpp.o -o b1050 

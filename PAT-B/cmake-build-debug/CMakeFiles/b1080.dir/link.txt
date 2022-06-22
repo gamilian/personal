@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/b1080.dir/b1080.cpp.o -o b1080 

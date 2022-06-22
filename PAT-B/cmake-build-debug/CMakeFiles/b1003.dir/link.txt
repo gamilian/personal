@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/b1003.dir/b1003.cpp.o -o b1003 

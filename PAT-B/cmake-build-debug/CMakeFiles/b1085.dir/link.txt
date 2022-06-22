@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/b1085.dir/b1085.cpp.o -o b1085 

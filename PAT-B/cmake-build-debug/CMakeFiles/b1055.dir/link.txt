@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/b1055.dir/b1055.cpp.o -o b1055 

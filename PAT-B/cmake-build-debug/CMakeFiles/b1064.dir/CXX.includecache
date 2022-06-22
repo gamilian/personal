@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/work/Project/c++/PAT-B/b1064.cpp
+iostream
+-
+vector
+-
+set
+-
+
+/work/Project/c++/PAT-B/b1065.cpp
+iostream
+-
+set
+-
+map
+-
+vector
+-
+

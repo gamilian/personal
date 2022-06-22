@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/PAT_B.dir/main.cpp.o -o PAT_B 

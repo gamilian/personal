@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/b1038.dir/b1038.cpp.o -o b1038 

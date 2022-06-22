@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/b1049.dir/b1049.cpp.o -o b1049 

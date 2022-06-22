@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/b1008.dir/b1008.cpp.o -o b1008 
